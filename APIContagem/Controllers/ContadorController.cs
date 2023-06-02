@@ -4,7 +4,6 @@ using System.Runtime.Versioning;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 
-
 namespace APIContagem.Controllers
 {
     [ApiController]
