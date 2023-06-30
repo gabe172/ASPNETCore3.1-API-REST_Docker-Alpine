@@ -1,6 +1,6 @@
 namespace APIContagem
 {
-    public class Contador
+    public class Contador Cigas
     {
         private int _valorAtual = 0;
 
