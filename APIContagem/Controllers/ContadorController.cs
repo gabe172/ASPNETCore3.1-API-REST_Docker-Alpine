@@ -23,7 +23,7 @@ namespace APIContagem.Controllers
                 {
                     _CONTADOR.ValorAtual,
                     Environment.MachineName,
-                    Local = "Azure Web App for Containers - Deployment Automatizado. . . -  GRupo RBS",
+                    Local = "Azure Web App for Containers - Deployment Automatizado. . . -  Grupo RBS",
                     Sistema = Environment.OSVersion.VersionString,
                     Variavel = configuration["TesteAmbiente"],
                     TargetFramework = Assembly
